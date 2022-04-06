@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7c23e94e7b5cc3dae3e9e0fa500ebd41.js"
+  "/precache-manifest.46ca528fb0488c3fb0e464ee318d0337.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mbti"});
